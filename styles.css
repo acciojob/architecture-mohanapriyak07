@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.content{
+	width:1100px;
+	background-color:rgb(183, 189, 175);
+	height:1100px;
+	padding:15px;
+}
+
+.imageContainer .main-img{
+	width:400px;
+	height:250px;
+}
+
+.table-main{
+	width:100%;
+	height:400px;
+}
+
+.first, .third{
+	width:200px;
+}
+
+.second{
+	width:600px;
+	text-align:center;
+}
+
+td>img{
+	width:150px;
+	height:150px;
+}
+
+
+
